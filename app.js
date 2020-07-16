@@ -30,13 +30,13 @@
 // document.write(hi);
 
 
-var arr=["SCC","HSE","BCS","BS","BCOM","MS","M.PHIL","PHD"];
-document.write(arr[0]+"<br>");
-document.write(arr[1]);
-document.write(arr[2]);
-document.write(arr[3]);
-document.write(arr[4]);
-document.write(arr[5]);
+// var arr=["SCC","HSE","BCS","BS","BCOM","MS","M.PHIL","PHD"];
+// document.write(arr[0]+"<br>");
+// document.write(arr[1]);
+// document.write(arr[2]);
+// document.write(arr[3]);
+// document.write(arr[4]);
+// document.write(arr[5]);
 
 
 
