@@ -52,3 +52,69 @@
 // }
 
 // document.write(power(2,4));
+
+
+
+
+// let sighup=()=>{
+
+
+// var email=document.getElementById('txt1')
+// var password=document.getElementById('txt2');
+
+// firebase.auth().createUserWithEmailAndPassword(email.value, password.value)
+//   .then((user) => {
+// console.log(user);
+//   })
+//   .catch((error) => {
+//     var errorCode = error.code;
+//     var errorMessage = error.message;
+//     console.log(errorMessage)
+//   });
+
+
+// }
+
+
+// var fi="fahad";
+// var la="khan"
+// document.write(`${fi}${la}`)
+
+
+// let sighup=()=>{
+// var todo=document.getElementById('txt1');
+// console.log(todo.value)
+
+
+
+// }
+
+
+// var obj={
+
+// name:"fahad",
+// id:123
+
+// }
+
+// for(var key in obj){
+
+// document.write(obj[key])
+
+// }
+
+// var obj={
+
+// name:"fahad",
+// id:123
+
+// }
+// var obj=[12,45,5]
+
+// obj.map((item,index)=>{
+// console.log(item)
+
+// })
+
+// obj.map(a=>{console.log(a)})
+
